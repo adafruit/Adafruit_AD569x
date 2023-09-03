@@ -24,7 +24,7 @@
 
 #include <Arduino.h>
 #include <Wire.h>
-#include <Adafruit_BusIO.h>
+#include <Adafruit_I2CDevice.h>
 
 /// Enum for AD569x commands.
 typedef enum {
@@ -47,11 +47,11 @@ typedef enum {
 class Adafruit_AD569x {
 public:
   Adafruit_AD569x();
-  bool begin(uint8_t addr, TwoWire &wire = Wire);
+  bool begin(uint8_t addr, TwoWire *wire = &Wire);
   bool writeDAC(uint16_t value);
   bool updateDAC(void);
   bool writeUpdateDAC(uint16_t value);
-  bool reset(void);
+  void reset(void);
   bool setMode(ad569x_operating_modes newmode, bool enable_ref, bool gain2x);
 
 private:
