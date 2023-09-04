@@ -4,7 +4,7 @@ Adafruit_AD569x [![Build Status](https://github.com/adafruit/Adafruit_AD569x/wor
 
 <a href="https://www.adafruit.com/product/4558"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
-This is the Adafruit AD569x I2C USB Power Delivery sink chip.
+This is the Adafruit AD569x I2C 16-bit DAC library.
 
 Tested and works great with the Adafruit AD569x Breakout Board 
 * http://www.adafruit.com/products/XXXX
