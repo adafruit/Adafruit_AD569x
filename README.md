@@ -2,12 +2,12 @@ Adafruit_AD569x [![Build Status](https://github.com/adafruit/Adafruit_AD569x/wor
 
 ================
 
-<a href="https://www.adafruit.com/product/4558"><img src="assets/board.jpg?raw=true" width="500px"></a>
+<a href="https://www.adafruit.com/product/5811"><img src="assets/board.jpg?raw=true" width="500px"></a>
 
 This is the Adafruit AD569x I2C 16-bit DAC library.
 
 Tested and works great with the Adafruit AD569x Breakout Board 
-* http://www.adafruit.com/products/XXXX
+* http://www.adafruit.com/products/5811
 
 This chip uses I2C to communicate, 2 pins are required to interface
 
