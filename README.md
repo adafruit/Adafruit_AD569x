@@ -15,7 +15,7 @@ Adafruit invests time and resources providing this open source code, please supp
 
 Written by Limor Fried (Adafruit Industries) with OpenAI ChatGPT v4 Aug 3rd, 2023 build
   * https://help.openai.com/en/articles/6825453-chatgpt-release-notes
-  * https://chat.openai.com/c/23eacb91-3e0d-49f9-9339-e9a6698052db
+  * [https://chat.openai.com/c/23eacb91-3e0d-49f9-9339-e9a6698052db](https://chat.openai.com/share/df7f803b-02d4-4e4f-bc1c-b717f77494dc)
 
 MIT license, check license.txt for more information
 All text above must be included in any redistribution
